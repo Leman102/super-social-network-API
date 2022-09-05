@@ -13,9 +13,10 @@ This is a set of API for a social network that uses a MongoDB database so that t
 ## Installation
 This repo is not deployed. If you want, you could run it in you internal server by doing the following:
 
-1. Clone the repo files using this [**link**](https://github.com/Leman102/super-social-network-API)
+1. Clone the repo using this [**link**](https://github.com/Leman102/super-social-network-API)
 2. You must have mongoDB installed
-3. Run the following commands at the command line:
+3. Execute and run the following commands in Terminal:
+
     - > npm init -y
     - > npm install express
     - > npm install mongoose
