@@ -28,6 +28,14 @@ This application will allow users to view, add, edit, and delete users, reaction
 * Open Insomnia and Have fun 🤘!
 ## Walkthrough
 
+https://user-images.githubusercontent.com/64149102/188513988-da85ddfa-8cbe-4830-974a-985848044b77.mp4
+
+https://user-images.githubusercontent.com/64149102/188514006-845d9752-1fcf-46de-b501-5b04dde9da4b.mp4
+
+https://user-images.githubusercontent.com/64149102/188514456-88fffffa-135b-4ee7-bcfa-703dd10950c1.mp4
+
+https://user-images.githubusercontent.com/64149102/188515066-1e5a5792-f7fe-4abe-86cd-074eabfbb7b3.mp4
+
 ## Contributing
 Contributions are more than welcome because we can learn, inspire, and create. Any contributions you make are greatly appreciated. Please reach out to me before making any changes. Thank you! 😊
 ## Technologies
